@@ -1,0 +1,3 @@
+
+echo "starterFiles\signalingPeerConnection\node_modules" >> .gitignore
+echo "Gumpyplay\node_modules" >> .gitignore
